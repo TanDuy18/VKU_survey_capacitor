@@ -11,9 +11,9 @@
 
 * **Team Members:**
   1. Nguyễn Tấn Duy — Student ID: 23IT.B029 — Role: Individual developer (UI/UX, offline architecture, sync engine, Android packaging) — Contribution: 100%
-* **🔗 Live Demo URL:** `https://vku-survey-capacitor.tanduy18-it.workers.dev/`
-* **📱 APK Download Link:** `https://github.com/TanDuy18/VKU_survey_capacitor/releases/tag/v1.0.0`
-* **💻 GitHub Repository:** `https://github.com/TanDuy18/VKU_survey_capacitor`
+* **🔗 Live Demo URL:** [https://vku-survey-capacitor.tanduy18-it.workers.dev/]
+* **📱 APK Download Link:** [https://github.com/TanDuy18/VKU_survey_capacitor/releases/tag/v1.0.0]
+* **💻 GitHub Repository:** [https://github.com/TanDuy18/VKU_survey_capacitor]
 
 **Demo admin account:** `admin@vku.udn.vn` / `admin123` (the password hint on the login form auto-fills on tap).
 
