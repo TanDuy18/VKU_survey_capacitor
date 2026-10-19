@@ -1,0 +1,17 @@
+{
+  "name": "VKU Field Survey",
+  "short_name": "VKU Survey",
+  "description": "Kiểm tra cơ sở vật chất khuôn viên VKU, hoạt động ngoại tuyến.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f7fc",
+  "theme_color": "#0284c7",
+  "lang": "vi",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
